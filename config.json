@@ -3,7 +3,7 @@
    "owner_name": "Bagus Adi Harsono",
    "database": "data",
    "limit": 15,
-   "ram_limit": "8192mb",
+   "ram_limit": "128mb",
    "max_upload": 50,
    "max_upload_free": 25,
    "cooldown": 0,
@@ -21,3 +21,4 @@
    }
 
 }
+
